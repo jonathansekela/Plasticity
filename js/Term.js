@@ -1,4 +1,4 @@
-/* Term object
+/* Term class
 */
 
 export function Term(term, definition, url) {
